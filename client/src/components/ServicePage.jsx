@@ -97,7 +97,7 @@ export default function ServicePage() {
 
       <div style={{ textAlign: "center" }}>
         <a
-          href="/login"
+          href="/"
           style={{
             backgroundColor: "#2b6cb0",
             color: "white",
